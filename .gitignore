@@ -1,4 +1,4 @@
-acervo.json
+*.json
 
 # Python
 __pycache__/
