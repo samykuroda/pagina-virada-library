@@ -21,7 +21,7 @@ def emoji_gen(genero):
         case "DRAMA":
             e_genero = emoji.emojize(f"{genero} :loudly_crying_face:")
         case _:
-            e_genero = emoji.emojize(f"{genero} :open_booko")
+            e_genero = emoji.emojize(f"{genero} :open_book")
     return e_genero
 
 def salvar_acervo(acervo):
